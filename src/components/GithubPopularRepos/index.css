@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  padding: 10px;
+}
+.heading-style {
+  color: #0f172a;
+  font-family: 'Lobster';
+  text-align: center;
+}
+.languages-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  height: 500px;
+  width: 300px;
+}
+.wrong-text {
+  color: #0f172a;
+  font-family: 'Lobster';
+}

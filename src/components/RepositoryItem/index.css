@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.repo-item {
+  height: 300px;
+  width: 150px;
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.repo-name-style {
+  color: #e73959;
+}
+.repo-image {
+  height: 50px;
+  width: 50px;
+}
+.icon-image {
+  height: 10px;
+  width: 10px;
+}
+.icon-text {
+  color: #1e293b;
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

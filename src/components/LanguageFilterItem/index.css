@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.active-language {
+  border-color: #0284c7;
+  border-style: solid;
+  color: #0284c7;
+}
+.inactive-language {
+  border-style: none;
+  color: #0f172a;
+}
+.language-text {
+  font-family: 'Roboto';
+}
